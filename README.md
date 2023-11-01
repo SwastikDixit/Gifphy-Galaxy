@@ -1,9 +1,4 @@
 # GIF Search App using React
-![GIF Search App](https://github.com/vivekarora-02/Gifphy-Galaxy/blob/master/gif.png)
-
-
-## [Watch Demo Video](https://www.youtube.com/watch?v=g8XayR1ws3Q)
-
 
 The GIF Search app built using React allows users to search for GIFs and displays the results using the Giphy API. It also includes the following additional features:
 
@@ -39,7 +34,7 @@ Follow the instructions below to get a copy of the project up and running on you
 1. Clone the repository to your local machine:
 
     ```bash
-   git clone https://github.com/vivekarora-02/Gifphy-Galaxy.git
+   git clone https://github.com/SwastikDixit/Gifphy-Galaxy.git
 
     cd Gifphy-Galaxy-master
 2. Install the required dependencies:
